@@ -1,4 +1,4 @@
-# tienda
+# Asian-shop
 
 > A Vue.js project
 
